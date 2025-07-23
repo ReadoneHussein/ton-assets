@@ -352,6 +352,7 @@ Name           | Address
 [GazTon](https://tonviewer.com/0:dcc0b382e295825999371e19470f1a42d48aa5c09aceb8eae06fac492a2b75c6) | EQDcwLOC4pWCWZk3HhlHDxpC1IqlwJrOuOrgb6xJKit1xr8O
 [Gem](https://tonviewer.com/0:7c3b4249fa1a9e0c0a830b5386eb33d805fa55f90cf03de77492971b20b5ec98) | EQB8O0JJ-hqeDAqDC1OG6zPYBfpV-QzwPed0kpcbILXsmAxG
 [Gentleman](https://tonviewer.com/0:7a425d4913b1ead09baba292d8b1c85cbbe58db76bcc996176fbc98432b2baf2) | EQB6Ql1JE7Hq0JuropLYschcu-WNt2vMmWF2-8mEMrK68nJn
+[GiftHub](https://tonviewer.com/0:1807ab429dc9efb20b06c63b45129d72e8ac3f721e1ae6e73a9e00082c468f38) | EQAYB6tCncnvsgsGxjtFEp1y6Kw_ch4a5uc6ngAILEaPOL80
 [GoMining](https://tonviewer.com/0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3) | EQD0laik0FgHV8aNfRhebi8GDG2rpDyKGXem0MBfya_Ew1-8
 [GoiCoin 2](https://tonviewer.com/0:42a329c662c940323bff81197fdbf07528c3af87d656f9a7b4a7b49a5d9cba28) | EQBCoynGYslAMjv_gRl_2_B1KMOvh9ZW-ae0p7SaXZy6KFjY
 [Goldverse Game Token](https://tonviewer.com/0:ba8a3faec89a86420effffdaf9b45b9f0e3d2a2441d8eac33b2bdd3265582a04) | EQC6ij-uyJqGQg7__9r5tFufDj0qJEHY6sM7K90yZVgqBEJP
