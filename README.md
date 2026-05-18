@@ -419,6 +419,7 @@ Name           | Address
 [Infinity](https://tonviewer.com/0:047d436f074d64de4872c8c25e42ee98eb4f5338fb66ffe327d3ed763496f849) | EQAEfUNvB01k3khyyMJeQu6Y609TOPtm_-Mn0-12NJb4SXwR
 [Informatoken](https://tonviewer.com/0:cc03b311b0b8ff03a6f35f8544c3beb1fb72c12278a9312f5119d72c9a7c4537) | EQDMA7MRsLj_A6bzX4VEw76x-3LBInipMS9RGdcsmnxFN6CG
 [Investavimas Visiems (Investing For All)](https://tonviewer.com/0:618736e7c982c8708c310b353e50aefb148183f703d0dff86158716a3ee2e3d4) | EQBhhzbnyYLIcIwxCzU-UK77FIGD9wPQ3_hhWHFqPuLj1EC8
+[Investor TON](https://tonviewer.com/0:6f138af59d87eed35102d3f10dda57edbb1d5f639a8161821e2a9c479926ea2c) | EQBvE4r1nYfu01EC0_EN2lftux1fY5qBYYIeKpxHmSbqLD_u
 [JETTON Vault](https://tonviewer.com/0:5b46607213a02eec4061be961e41f69a6bfdb4ccb56b2a7ae5d38d25b42eff1d) | EQBbRmByE6Au7EBhvpYeQfaaa_20zLVrKnrl040ltC7_Hfhs
 [JOOBI](https://tonviewer.com/0:798ea1e8c59f1a8997739df55be0046bafbb014849d37595e628336ee5338826) | EQB5jqHoxZ8aiZdznfVb4ARrr7sBSEnTdZXmKDNu5TOIJiaL
 [JVT Vault](https://tonviewer.com/0:f26a93829fdf8448a4ed3cce22a7c92433be18fb668e63cf048a96c5b27fffaa) | EQDyapOCn9-ESKTtPM4ip8kkM74Y-2aOY88EipbFsn__qskC
